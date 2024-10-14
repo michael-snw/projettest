@@ -1,4 +1,4 @@
-# Prohet Test
+# Projet Test
 
 Ceci est mon projet test d'installation et de configuration Git
 
